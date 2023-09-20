@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, Me llamo Cristian Fernández Moreno</h1>
+<h1 align="center">Hi 👋, I'm Cristian Fernández Moreno</h1>
 <h3 align="center">Junior Developer</h3>
 
-- 🌱 Sigo en constante aprendizaje **con cursos de Udemy, tutoriales, etc**
+- 💬 Sigo en constante aprendizaje **con cursos de Udemy, tutoriales, etc**
 
-- 💬 Pregúntame sobre **JS, Angular, etc**
+- 🌱 Actualmente trabajo con **JS, Angular, Node, Webpack 5, etc**
 
 - 📫 Cómo contactarme **cristian.fedez@gmail.com**
 
-- 📄 Conoce mis experiencias [https://cristianlinks.vercel.app/](https://cristianlinks.vercel.app/)
+- 📄 All my links [https://cristianlinks.vercel.app/](https://cristianlinks.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
